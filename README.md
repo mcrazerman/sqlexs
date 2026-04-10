@@ -1,0 +1,2 @@
+# sqlexs
+Sql exercises
